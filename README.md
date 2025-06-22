@@ -1,10 +1,10 @@
 
 # 🏆 Graham Ransford | Full-Stack Developer Portfolio
 
-![Banner](https://via.placeholder.com/1200x400/1e293b/ffffff?text=Graham's+Development+Portfolio) *(Replace with your banner image)*
+![Banner](https://via.placeholder.com/1200x400/1e293b/ffffff?text=Graham's+Development+Portfolio) 
 
 **📌 Solution Architect** | **🚀 Laravel Expert** | **🛠️ Practical Systems Developer**  
-📍 Kumasi, Ghana | 📧 grahamransford3@gmail.com | 📞 +233 542 069 352
+📍 Kumasi, Ghana | 📧 grahamransford3@gmail.com | 📞 +233 542 069 352 
 portfolio : https://graham-ransford.github.io/portfolio/
 
 ---
