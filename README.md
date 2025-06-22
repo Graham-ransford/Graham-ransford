@@ -201,7 +201,3 @@ def coding_activity():
    > "Graham's system transformed our property management workflow!"  
    > — KingQueen Properties CEO
 
-Would you like me to:
-1. Add specific screenshots of your projects?
-2. Include more technical architecture diagrams?
-3. Add a "Project Showcase" video section?
